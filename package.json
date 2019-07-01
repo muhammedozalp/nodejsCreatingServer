@@ -1,0 +1,28 @@
+{
+  "name": "nodejscreatingserver",
+  "version": "1.0.0",
+  "description": "create a small local web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammedozalp/nodejsCreatingServer.git"
+  },
+  "keywords": [
+    "node.js",
+    "http",
+    "web",
+    "server"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammedozalp/nodejsCreatingServer/issues"
+  },
+  "homepage": "https://github.com/muhammedozalp/nodejsCreatingServer#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
